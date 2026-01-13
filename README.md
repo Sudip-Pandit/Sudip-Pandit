@@ -124,7 +124,7 @@ I'm passionate about solving complex data challenges and driving innovation thro
 
 - 📧 **Email**: [*********@example.com]
 - 💼 **LinkedIn**: [in/sudip-p-450987236]
-- 🔗 **GitHub**: [https://github.com/Sudip-Pandit]
+- 🔗 **GitHub**: [https://www.linkedin.com/in/sudip-p-450987236/]
 - 📍 **Open to**: Remote opportunities | Consulting projects | Collaborative ventures
 
 ---
