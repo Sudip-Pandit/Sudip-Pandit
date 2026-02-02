@@ -1,11 +1,10 @@
 # 👋 Senior Data Engineer & Generative AI Specialist
-
 <div align="center">
   
 **Building scalable AI-driven data solutions | 11+ years in software engineering | 8+ years in big data & cloud**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sudip-p-450987236/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Sudip-Pandit)
 
 </div>
 
